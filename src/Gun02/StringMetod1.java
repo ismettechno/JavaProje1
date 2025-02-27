@@ -7,5 +7,7 @@ public class StringMetod1 {
 
         System.out.println(kelime.length());
 
+        System.out.println(kelime.toUpperCase());
+
     }
 }
