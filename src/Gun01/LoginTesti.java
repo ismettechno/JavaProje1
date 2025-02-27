@@ -10,5 +10,11 @@ public class LoginTesti {
 
         System.out.println("Yeni Login Testi yapıldı, 7 gün uğraştım");
 
+        System.out.println("MErhaba 2");
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("merhaba");
+        }
+
     }
 }
