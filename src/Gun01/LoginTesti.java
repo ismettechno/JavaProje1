@@ -16,5 +16,12 @@ public class LoginTesti {
             System.out.println("merhaba");
         }
 
+        int sayac=0;
+        while (sayac<5)
+        {
+            System.out.println("merhaba");
+            sayac++;
+        }
+
     }
 }
